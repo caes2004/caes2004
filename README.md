@@ -6,7 +6,9 @@ Apasionado por el desarrollo de aplicaciones web y bases de datos. Me enfoco en 
 
 ### 🚀 Tecnologías
 
-Lenguajes de programación: Java (Spring Boot)
+Lenguajes de programación: Java, Python.
+
+FrameWorks: Spring Boot, Spring Security.
 
 Herramientas y entornos:🛠️ IntelliJ IDEA - NetBeans - Visual Studio Code - Postman 
 
@@ -34,9 +36,9 @@ Bases de datos:🗄️ MySQL - Oracle
 
 #### 📌 Proyecto: Spring-Security-JWT - Spring Boot, Spring Security, JWT y MySQL
 
-🔹 Desarrollo de una API REST segura con Spring Boot, Spring Security y JWT. 
+🔹 Desarrollo de mi primera API REST segura con Spring Boot, Spring Security y JWT. 
 🔹 Creación de un sistema de inicio de sesión que genera y valida tokens JWT para usuarios autenticados. 
-🔹  Configuración de filtros de seguridad para proteger endpoints según roles y permisos de usuario. 
+🔹 Configuración de filtros de seguridad básicos para proteger endpoints según roles y permisos de usuario. 
 🔹 Integración con MySQL para la gestión de usuarios y credenciales.
 
 
